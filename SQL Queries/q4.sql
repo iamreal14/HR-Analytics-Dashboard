@@ -1,0 +1,1 @@
+select count(attrition) as Attrition from hrdata where attrition='Yes';

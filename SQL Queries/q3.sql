@@ -1,0 +1,1 @@
+select sum(employee_count) as Employee_Count from hrdata;
